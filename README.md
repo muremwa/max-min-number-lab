@@ -12,7 +12,7 @@ Here are some examples
 
 [1, 0, 8, 3] should return [0, 8]
 
-[-1, -55, -2] should return [-55, -2]
+[-1, -55, -2] should return [-55, -1]
 
 [1, 1, 1] should return [1]
 
